@@ -8,6 +8,6 @@ SoftUni is a university for studying software engineering.
 
 link: https://softuni.bg/
 
-All tasks are tested by a system called "judge", created by Softuni engineers
+All tasks are tested by a system called "judge", created by Softuni engineers.
 
-link: https://judge.softuni.org/
+link: https://judge.softuni.org/  --> You can find all the conditions of the tasks here.
